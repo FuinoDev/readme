@@ -360,14 +360,6 @@ Full-Stack Engineering
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuinodev&show_icons=true&locale=en" alt="FuinoDev GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuinodev&show_icons=true&locale=en&layout=compact" alt="FuinoDev Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuinodev" alt="FuinoDev GitHub Streak" />
 </p>
 
@@ -376,7 +368,7 @@ Full-Stack Engineering
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fuinodev&margin-w=10&margin-h=10" alt="FuinoDev GitHub Trophies" />
+  WALA PA 
 </p>
 
 ---
