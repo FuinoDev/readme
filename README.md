@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm FuinoDev</h1>
 
 <h3 align="center">
@@ -395,6 +394,4 @@ I'm always interested in learning more about software engineering, full-stack de
 <p align="center">
   <b>Build. Secure. Deploy. Monitor. Improve.</b>
 </p>
-```
 
-You can paste the entire content inside your GitHub profile repository's **`README.md`**. I also structured it so your **current skills are separated from technologies you're still learning**, which is more appropriate for a résumé-style developer profile.
